@@ -1,0 +1,16 @@
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\PacotesHomolog.Form1.resources
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\PacotesHomolog.Properties.Resources.resources
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\bin\Debug\PacotesHomolog.exe
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\bin\Debug\PacotesHomolog.pdb
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\PacotesHomolog.exe
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\PacotesHomolog.pdb
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\bin\Debug\PacotesHomolog.exe.manifest
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\bin\Debug\PacotesHomolog.application
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\PacotesHomolog.exe.manifest
+C:\Users\yuri.feitosa\Desktop\PenDrive\Conhecimento\Exemplos_Praticos\C#\PacotesHomolog\PacotesHomolog\obj\x86\Debug\PacotesHomolog.application

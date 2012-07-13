@@ -1,0 +1,270 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Program.cs" caret="0" fromTop="0" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="10263" fromTop="11" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.Designer.cs" caret="680" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="8671" fromTop="17" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="561" fromTop="15" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="1618" fromTop="12" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="3729" fromTop="18" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="7987" fromTop="9" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="3281" fromTop="19" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="2456" fromTop="11" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="6646" fromTop="9" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="6466" fromTop="8" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="11702" fromTop="7" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="12125" fromTop="26" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="9377" fromTop="11" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="12125" fromTop="16" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="11682" fromTop="26" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="12363" fromTop="15" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="11682" fromTop="17" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="7848" fromTop="5" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="11434" fromTop="19" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="11222" fromTop="12" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="12246" fromTop="22" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="12125" fromTop="11" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="11682" fromTop="17" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="12296" fromTop="9" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.Designer.cs" caret="1020" fromTop="26" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="11205" fromTop="9" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="10756" fromTop="16" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.cs" caret="10263" fromTop="11" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.Designer.cs" caret="1024" fromTop="14" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.Designer.cs" caret="633" fromTop="4" />
+      <File id="DB105D62-38D8-43EF-8B3D-FF604C04E637/f:Form1.Designer.cs" caret="1392" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="textBox1" priority="63" />
+      <Item value="string" priority="511" />
+      <Item value="label1" priority="31" />
+      <Item value="if" priority="191" />
+      <Item value="MessageBox`0" priority="63" />
+      <Item value="new" priority="191" />
+      <Item value="DirectoryInfo" priority="28" />
+      <Item value="return" priority="95" />
+      <Item value="DateTime`0" priority="95" />
+      <Item value="StringBuilder`0" priority="31" />
+      <Item value="StringBuilder" priority="28" />
+      <Item value="List" priority="127" />
+      <Item value="List&lt;File&gt;" priority="28" />
+      <Item value="FileInfo`0" priority="90" />
+      <Item value="lista" priority="159" />
+      <Item value="_file" priority="31" />
+      <Item value="continue" priority="63" />
+      <Item value="file" priority="255" />
+      <Item value="BatteryChargeStatus`0" priority="30" />
+      <Item value="button1" priority="95" />
+      <Item value="false" priority="63" />
+      <Item value="for" priority="191" />
+      <Item value="FileInfo" priority="28" />
+      <Item value="foreach" priority="31" />
+      <Item value="List&lt;FileInfo&gt;" priority="28" />
+      <Item value="ref" priority="95" />
+      <Item value="item" priority="63" />
+      <Item value="listBox1" priority="96" />
+      <Item value="Form2`0" priority="31" />
+      <Item value="maph" priority="95" />
+      <Item value="textBox2" priority="31" />
+      <Item value="caminhoZip" priority="63" />
+      <Item value="pastas" priority="31" />
+      <Item value="Directory`0" priority="63" />
+      <Item value="true" priority="63" />
+      <Item value="Compress`0" priority="31" />
+      <Item value="private" priority="63" />
+      <Item value="enum" priority="31" />
+      <Item value="bool" priority="63" />
+      <Item value="validado" priority="31" />
+      <Item value="Extensoes`0" priority="31" />
+      <Item value="var" priority="127" />
+      <Item value="public" priority="31" />
+      <Item value="x" priority="31" />
+      <Item value="fileName" priority="58" />
+      <Item value="dir" priority="31" />
+      <Item value="Count`1" priority="107" />
+      <Item value="while" priority="31" />
+      <Item value="Last`1" priority="26" />
+      <Item value="using" priority="30" />
+      <Item value="Ionic" priority="30" />
+      <Item value="Zip" priority="26" />
+      <Item value="teste" priority="127" />
+      <Item value="Always" priority="16" />
+      <Item value="try" priority="31" />
+      <Item value="catch" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="ZipException`0" priority="26" />
+      <Item value="throw" priority="31" />
+      <Item value="ex" priority="31" />
+      <Item value="zip" priority="127" />
+      <Item value="diretorio" priority="31" />
+      <Item value="LastOrDefault`1" priority="27" />
+      <Item value="fileInfo" priority="31" />
+      <Item value="subDir" priority="31" />
+      <Item value="info" priority="31" />
+      <Item value="itemName" priority="31" />
+      <Item value="processo" priority="31" />
+      <Item value="sw" priority="31" />
+      <Item value="File`0" priority="31" />
+      <Item value="Process" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="53" />
+      <Item value="IsNullOrEmpty`0" priority="26" />
+      <Item value="Format`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="LastWriteTime" priority="26" />
+      <Item value="Extension" priority="80" />
+      <Item value="Attributes" priority="26" />
+      <Item value="FullName" priority="50" />
+      <Item value="CreationTime" priority="27" />
+      <Item value="Name" priority="157" />
+      <Item value="DirectoryName" priority="76" />
+      <Item value="CopyTo`0" priority="26" />
+      <Item value="Replace`0" priority="26" />
+      <Item value="Directory" priority="26" />
+      <Item value="Delete`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="53" />
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Add`0" priority="26" />
+      <Item value="Subtract`0" priority="26" />
+      <Item value="Date" priority="53" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Hour" priority="54" />
+      <Item value="TimeOfDay" priority="27" />
+      <Item value="Minute" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="26" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="54" />
+      <Item value="ForEach`0" priority="54" />
+      <Item value="Count" priority="53" />
+      <Item value="Any`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="GetFiles`0" priority="22" />
+      <Item value="FullName" priority="81" />
+      <Item value="Name" priority="130" />
+      <Item value="Delete`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Clear`0" priority="54" />
+      <Item value="Add`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="135" />
+      <Item value="ToUpper`0" priority="53" />
+      <Item value="ToLower`0" priority="54" />
+      <Item value="Split`0" priority="53" />
+      <Item value="Length" priority="107" />
+      <Item value="Replace`0" priority="82" />
+      <Item value="Equals`0" priority="53" />
+      <Item value="Substring`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Days" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Visible" priority="26" />
+      <Item value="Enabled" priority="54" />
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckedListBox+ObjectCollection">
+      <Item value="Count" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckedListBox">
+      <Item value="CheckedItems" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckedListBox+CheckedItemCollection">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PacotesHomolog.Form2">
+      <Item value="ActiveForm" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="Invoke`0" priority="26" />
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="CreateDirectory`0" priority="81" />
+      <Item value="Delete`0" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PacotesHomolog.Extensoes">
+      <Item value="_lista" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ionic.Zip.ZipFile">
+      <Item value="FixZipDirectory`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ionic.Zip.ZipFile">
+      <Item value="AddDirectory`0" priority="26" />
+      <Item value="Name" priority="26" />
+      <Item value="SetCompression" priority="53" />
+      <Item value="UseZip64WhenSaving" priority="22" />
+      <Item value="Save`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ionic.Zip.Zip64Option">
+      <Item value="Default" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ionic.Zip.ZipException">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="HasExited" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Delete`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

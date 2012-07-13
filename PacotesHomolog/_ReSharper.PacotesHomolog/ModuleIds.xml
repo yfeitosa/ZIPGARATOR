@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="DB105D62-38D8-43EF-8B3D-FF604C04E637" ModuleId="PacotesHomolog" />
+  <Module PersistentId="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=null" ModuleId="ICSharpCode.SharpZipLib" />
+</Modules>
